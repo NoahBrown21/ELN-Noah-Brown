@@ -8,4 +8,15 @@ The goal of the project is to develop a fluoresence polarisation (FP) assay to i
 
 On the main issues page, issues are either open or closed. Open issues represent planned or ongoing experiments, while closed issues represent completed experiments. 
 
+# Experimental Identifiers 
+
+Experiments within the ELN are identified using the following key:
+1. The initials of the experimentalist (NB)
+2. Underscore
+3. The ABHD protein being tested (ANHD14B)
+4. Underscore
+5. The repeat number (03)
+
+For example, NB_ABHD14B_03 represents the 3rd repeat of a ABHD14B FP assay
+
 The licince for this page is CC-BY-4.0
