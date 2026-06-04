@@ -14,11 +14,13 @@ Experiments within the ELN are identified using the following key:
 1. The initials of the experimentalist (NB)
 2. Underscore
 3. The ABHD protein being tested (ABHD14B)
-4. Underscore
-5. General method
-6. Underscore 
-7. The repeat number (03)
+4. underscore
+5. fluorogenic substarte 
+6. Underscore
+7. General method
+8. Underscore 
+9. The repeat number (03)
 
-For example, NB_ABHD14B_FluoresencePolarisation_03 represents the 3rd repeat of a ABHD14B FP assay
+For example, NB_ABHD14B__MPP_FP_03 represents the 3rd repeat of a ABHD14B fluorescence polarisation assay using MPP substrate, performed by Noah Brown
 
 The licince for this page is CC-BY-4.0
