@@ -13,7 +13,7 @@ On the main issues page, issues are either open or closed. Open issues represent
 Experiments within the ELN are identified using the following key:
 1. The initials of the experimentalist (NB)
 2. Underscore
-3. The ABHD protein being tested (ABHD14B)
+3. The ABHD protein being tested (ABHD14B), if applicable 
 4. underscore
 5. fluorogenic substarte 
 6. Underscore
